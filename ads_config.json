@@ -1,7 +1,7 @@
 {
       "show_banner": true,
       "show_native": true,
-      "show_interstitial": false,
+      "show_interstitial": true,
       "show_app_open": true,
       "interstitial_click_threshold": 3,
       "banner_id": "ca-app-pub-3940256099942544/6300978111",
