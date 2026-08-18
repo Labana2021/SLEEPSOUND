@@ -4,7 +4,7 @@
       "show_native": true,
       "show_interstitial": true,
       "show_app_open": true,
-      "interstitial_click_threshold": 3,
+      "interstitial_click_threshold": 6,
       "banner_id": "ca-app-pub-9275295604610137/2694387576",
       "native_id": "ca-app-pub-9275295604610137/7182428938",
       "interstitial_id": "ca-app-pub-9275295604610137/9373478004",
